@@ -21,7 +21,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background-color: var(--Yellow);
     min-height: 100vh;
@@ -32,8 +31,7 @@ body {
 }
 .card {
     background-color: var(--White);
-    width: 24rem;
-    height: 32.625rem;
+    max-width: 24rem;
     border-radius: 20px;
     box-shadow: 10px 10px var(--Gray950);
     border: 1px solid var(--Gray950);
