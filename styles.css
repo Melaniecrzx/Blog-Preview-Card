@@ -37,7 +37,6 @@ body {
     border-radius: 20px;
     box-shadow: 10px 10px var(--Gray950);
     border: 1px solid var(--Gray950);
-   
 }
 .card_image {
     border-radius: 20px;
@@ -55,7 +54,6 @@ body {
     width: fit-content;
     height: fit-content;
     padding: 0.5em 1em;
-    margin: 0.75rem 0;
 }
 .card_published_date {
     font-size: 0.75rem;
